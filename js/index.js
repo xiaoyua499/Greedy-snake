@@ -1,4 +1,5 @@
 window.addEventListener('load', function () {
+    //初始化
     var position = 'absolute';
     var elements = [];
     //创建食物对象
