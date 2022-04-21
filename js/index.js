@@ -1,4 +1,4 @@
-(function (window, undefined) {
+window.addEventListener('load', function () {
     var document = window.document;
     //初始化
     var position = 'absolute';
@@ -171,4 +171,4 @@
         }.bind(that), false);
     }
 
-}(window, undefined))
+}
