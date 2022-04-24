@@ -171,4 +171,4 @@ window.addEventListener('load', function () {
         }.bind(that), false);
     }
 
-}
+}(window, undefined))
